@@ -18,5 +18,11 @@ django rest framework + vue 的图书管理小项目，前后端分离教程
 
 ## 界面
 
+- 图书列表
+![image](https://github.com/myide/django-vue.js-book/blob/master/images/list.png)
+
+- 图书详情
+![image](https://github.com/myide/django-vue.js-book/blob/master/images/detail.png)
+
 ## 交流学习
 - QQ群 630791951
